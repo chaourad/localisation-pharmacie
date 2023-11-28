@@ -24,7 +24,7 @@ Elle offre des fonctionnalités telles que la recherche de pharmacies par ville 
 Pour lancer le projet localement, suivez les étapes suivantes :
 
 # Clonez le dépôt
-git clone 
+git clone https://github.com/chaourad/localisation-pharmacie.git
 
 # Installez les dépendances
 # Backend
